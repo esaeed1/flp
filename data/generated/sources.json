@@ -15,7 +15,7 @@
     ],
     "totalAvailableAtSource": 264142,
     "ingestedCount": 4545,
-    "retrievedAt": "2026-09-28T17:13:17.198Z",
+    "retrievedAt": "2026-10-05T17:37:40.447Z",
     "notes": "Showing the most recent published lien-sale cycle (2025-06-01). Properties with unpaid property tax and/or water charges that were eligible for the NYC tax lien sale."
   },
   {
@@ -30,7 +30,7 @@
     ],
     "totalAvailableAtSource": 200915,
     "ingestedCount": 1500,
-    "retrievedAt": "2026-09-28T17:13:17.198Z",
+    "retrievedAt": "2026-10-05T17:37:40.447Z",
     "notes": "Cook County's public dataset covers tax sale years through 2014. Parcels (by PIN) with delinquent property taxes offered at the county's annual tax sale."
   },
   {
@@ -45,7 +45,7 @@
     ],
     "totalAvailableAtSource": 5609,
     "ingestedCount": 1500,
-    "retrievedAt": "2026-09-28T17:13:17.198Z",
+    "retrievedAt": "2026-10-05T17:37:40.447Z",
     "notes": "The biennial Scavenger Sale offers parcels delinquent 3+ years that went unsold at an Annual Tax Sale. Public dataset covers sale years through 2015."
   },
   {
@@ -60,7 +60,7 @@
     ],
     "totalAvailableAtSource": 54401,
     "ingestedCount": 2000,
-    "retrievedAt": "2026-09-28T17:13:17.198Z",
+    "retrievedAt": "2026-10-05T17:37:40.447Z",
     "notes": "Live, monthly-updated feed of real estate accounts with unpaid property tax as of January 1 following the tax year due. Showing the largest 2,000 balances of the current dataset."
   }
 ]
